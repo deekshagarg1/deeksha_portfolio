@@ -1,0 +1,21 @@
+/* Base styles for desktop (default) */
+.nav-right {
+    display: block;
+    /* background-color: aqua; */
+}
+
+.nav-right1 {
+    display: none;
+}
+
+
+/* Media query for screens ≤ 680px */
+@media only screen and (max-width:550px){
+    .nav-right {
+        display: none;
+    }
+
+    .nav-right1 {
+        display: block;
+    }
+}

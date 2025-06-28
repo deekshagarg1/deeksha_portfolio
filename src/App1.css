@@ -1,0 +1,46 @@
+@media only screen and (max-width: 850px) {
+
+    .nav-main {
+        width: 90%;
+        height: auto;
+    }
+
+    .nav-right {
+        display: none;
+        width: 100%;
+        flex-direction: column;
+        margin-top: 10px;
+    }
+
+    .nav-right.active {
+        display: flex; }
+
+    .nav-right p {
+        padding: 10px;
+        width: 100%;
+        text-align: end;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.253);
+    }
+
+    .nav-right1 {
+        display: block;
+    }
+}
+
+@media only screen and (max-width: 720px) {
+.p1 video{
+   width: 515px;
+  height: 260px;
+  background-color: white;
+}
+.p21 video{
+  width: 510px;
+  height: 245px;
+  background-color: white;
+}
+.p3 video{
+ width: 510px;
+  height: 260px;
+  background-color: white;
+}
+}
