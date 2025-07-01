@@ -91,7 +91,7 @@ console.log(data)
 
 
     </div>
-    <div className="last">© 2025. All rights are reserved.</div>
+    <div className="last">© 2025. All rights are reserved | Deeksha Garg</div>
     
     </>
   )

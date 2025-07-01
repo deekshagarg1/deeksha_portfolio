@@ -15,42 +15,42 @@ export const Skills = () => {
 
 
 <div className="logo1">
-  <img src="/src\assets\html-5.png" alt="" />
+  <img src="/html-5.png" alt="" />
   <h3>HTML</h3>
 </div>
 
 
-<div className="logo1">  <img src="/src\assets\css.jpeg" alt="" />
+<div className="logo1">  <img src="/css.jpeg" alt="" />
   <h3>CSS</h3></div>
 
-<div className="logo1">  <img src="/src\assets\github.png" alt="" />
+<div className="logo1">  <img src="/github.png" alt="" />
   <h3>GitHub</h3></div>
 
-  <div className="logo1">  <img src="/src\assets\nodejs.png" alt="" />
+  <div className="logo1">  <img src="/nodejs.png" alt="" />
   <h3>Node.js</h3></div>
 
-<div className="logo1">  <img src="/src\assets\react.png" alt="" />
+<div className="logo1">  <img src="/react.png" alt="" />
   <h3>React</h3></div>
 
 
 
-<div className="logo1">  <img src="/src\assets\bootstrap.jpeg" alt="" />
+<div className="logo1">  <img src="/bootstrap.jpeg" alt="" />
   <h3>Bootstrap</h3></div>
 
-<div className="logo1">  <img src="/src\assets\js.png" alt="" />
+<div className="logo1">  <img src="/js.png" alt="" />
   <h3>JavaScript</h3></div>
 
-<div className="logo1">  <img src="/src\assets\tailwind.png" alt="" />
+<div className="logo1">  <img src="/tailwind.png" alt="" />
   <h3>TailwindCSS</h3></div>
 
-<div className="logo1">  <img src="/src\assets\ts.png" alt="" />
+<div className="logo1">  <img src="/ts.png" alt="" />
   <h3>TypeScript</h3></div>
 
 
-<div className="logo1">  <img src="/src\assets\mongodb.png" alt="" />
+<div className="logo1">  <img src="/mongodb.png" alt="" />
   <h3>Mongo DB</h3></div>
 
-<div className="logo1">  <img src="/src\assets\mysql.png" alt="" />
+<div className="logo1">  <img src="/mysql.png" alt="" />
   <h3>My SQL</h3></div>
 
 

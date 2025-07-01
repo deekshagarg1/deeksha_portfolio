@@ -18,7 +18,7 @@ export const Project = ({p}) => {
 
     {/* <!-- Housing --> */}
     <div class="card">
-      <img src="/src\assets\housing.png" alt="Housing"/>
+      <img src="/housing.png" alt="Housing"/>
       <div class="card-content">
      A Housing web clone is a real estate platform that enables users to buy, sell, or rent properties. It includes features like property listings with images, map integration, price filters, and user authentication. Designed for seamless property discovery and comparison, it simplifies real estate transactions for both buyers and sellers.
       </div>
@@ -26,7 +26,7 @@ export const Project = ({p}) => {
 
     {/* <!-- Spoof --> */}
     <div class="card">
-      <img src="/src\assets\spoofcard.jpg" alt="Spoof"/>
+      <img src="/spoofcard.jpg" alt="Spoof"/>
       <div class="card-content">
       A SpoofCard web clone allows users to make anonymous or disguised phone calls by changing caller ID. It features a simple interface, secure call routing, voice modulation, and real-time usage history. Ideal for privacy-focused users, prank calls, or testing phone responses without revealing personal identity.
       </div>
@@ -34,12 +34,13 @@ export const Project = ({p}) => {
 
     {/* <!-- Biba Clone --> */}
     <div class="card">
-      <img src="/src\assets\biba1.jpg" alt="Biba Clone"/>
+      <img src="/Biba1.jpg" alt="Biba Clone"/>
       <div class="card-content">
      A Biba web clone is an e-commerce platform for ethnic fashion, offering a wide range of women’s apparel like kurtis, sarees, and suits. It features category-wise browsing, size filters, product galleries, and secure checkout. Designed with a modern, elegant UI, it replicates the shopping experience of the original Biba brand.
       </div>
     </div>
   </div>
+  <br />
 
 </div>
 
@@ -47,11 +48,11 @@ export const Project = ({p}) => {
 <div className="projects">
 <br /><br />
 <center>  <h2>DYNAMIC WEBSITE</h2></center>
-<br /><br /><br /><br />
+<br /><br />
 
 <div className="p1">
   {/* <iframe  src="/src\assets\rentproject.mp4" autoplay controls muted ></iframe> */}
-  <video src="/src\assets\rentproject.mp4" autoplay controls muted ></video>
+  <video src="/rentproject.mp4" autoplay controls muted ></video>
 </div>
 <div className="p2">
   <span>Rental Wesite</span>
@@ -64,7 +65,7 @@ export const Project = ({p}) => {
 <div className="projects">
 
 <div className="p21">
-    <video src="/src\assets\ecommerce_project.mp4"  autoplay controls muted ></video>
+    <video src="/ecommerce_project.mp4"  autoplay controls muted ></video>
   {/* <iframe  src="/src\assets\ecommerce_project.mp4" autoplay=""  ></iframe> */}
 </div>
 <div className="p2">
@@ -76,7 +77,7 @@ export const Project = ({p}) => {
 <div className="projects">
 
 <div className="p3">
-   <video src="/src\assets\patient.mp4"  autoplay controls muted ></video>
+   <video src="/patient.mp4"  autoplay controls muted ></video>
   {/* <iframe  src="/src\assets\patient.mp4" autoplay=""  ></iframe> */}
 </div>
 <div className="p2">

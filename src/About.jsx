@@ -26,7 +26,7 @@ export const About = ({click4, click1}) => {
       <div className="hero-right">
         <div className="image-wrapper">
           {/* <img src="/src\assets\pic.png" alt="deeksha" /> */}
-          <img src="./src/pic2.jpg" alt="" />
+          <img src="/pic2.jpg" alt="" />
         </div>
       </div>
     </div>

@@ -25,6 +25,7 @@
     .nav-right1 {
         display: block;
     }
+
 }
 
 @media only screen and (max-width: 720px) {
@@ -43,4 +44,117 @@
   height: 260px;
   background-color: white;
 }
+}
+
+
+@media only screen and (max-width: 400px) {
+
+.nav-left{
+    font-size: large;
+}
+
+.nav-main{
+    display: flex;
+    width: 94%;
+    height: 70px;
+    padding: 10px;
+}
+
+.hero-buttons{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.image-wrapper{
+    width: 250px;
+    height: 200px;
+    display: flex;
+
+}
+.image-wrapper img{
+    width: 250px;
+    height: 230px;
+}
+
+.project-main h1{
+    font-size: 2rem;
+}
+
+.card-main h2{
+    font-size: larger;
+}
+.card {
+    width: 200px;
+    /* height: 400px; */
+    /* display: flex; */
+}
+
+
+.card img{
+    width: 200px;
+    height: 200px;
+    display: flex;
+}
+
+.p1{
+        width: 250px;
+    /* height: 200px; */
+}
+
+.p1 vedio{
+    width: 230px;
+    height: 200px;
+}
+
+.p21{
+        width: 250px;
+    /* height: 200px; */
+}
+
+.p21 vedio{
+    width: 230px;
+    height: 200px;
+}
+
+.p3{
+    width: 250px;
+}
+.p3 vedio{
+    width: 250px;
+    height: 200px;
+}
+
+.experience-main h1{
+font-size: 2rem;
+}
+
+.contact-main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.contact-container{
+       display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.form-section form{
+          display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; 
+}
+
+.form-footer{
+          display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; 
+    gap: 30px;
+}
+
 }
